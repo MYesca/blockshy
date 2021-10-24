@@ -1,0 +1,16 @@
+C:\Users\yesca\Downloads\blockshy\bin\Debug\net5.0\blockshy.exe
+C:\Users\yesca\Downloads\blockshy\bin\Debug\net5.0\blockshy.deps.json
+C:\Users\yesca\Downloads\blockshy\bin\Debug\net5.0\blockshy.runtimeconfig.json
+C:\Users\yesca\Downloads\blockshy\bin\Debug\net5.0\blockshy.runtimeconfig.dev.json
+C:\Users\yesca\Downloads\blockshy\bin\Debug\net5.0\blockshy.dll
+C:\Users\yesca\Downloads\blockshy\bin\Debug\net5.0\ref\blockshy.dll
+C:\Users\yesca\Downloads\blockshy\bin\Debug\net5.0\blockshy.pdb
+C:\Users\yesca\Downloads\blockshy\obj\Debug\net5.0\blockshy.csproj.AssemblyReference.cache
+C:\Users\yesca\Downloads\blockshy\obj\Debug\net5.0\blockshy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yesca\Downloads\blockshy\obj\Debug\net5.0\blockshy.AssemblyInfoInputs.cache
+C:\Users\yesca\Downloads\blockshy\obj\Debug\net5.0\blockshy.AssemblyInfo.cs
+C:\Users\yesca\Downloads\blockshy\obj\Debug\net5.0\blockshy.csproj.CoreCompileInputs.cache
+C:\Users\yesca\Downloads\blockshy\obj\Debug\net5.0\blockshy.dll
+C:\Users\yesca\Downloads\blockshy\obj\Debug\net5.0\ref\blockshy.dll
+C:\Users\yesca\Downloads\blockshy\obj\Debug\net5.0\blockshy.pdb
+C:\Users\yesca\Downloads\blockshy\obj\Debug\net5.0\blockshy.genruntimeconfig.cache
