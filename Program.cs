@@ -24,7 +24,7 @@ namespace blockshy
 
         public byte[] GenerateHash()
         {
-            using(SHA512 sha = new SHA512Managed())
+            using(SHA512 sha = SHA512.Create())
             using(MemoryStream ms = new MemoryStream())
             using(BinaryWriter bw = new BinaryWriter(ms))
             {
